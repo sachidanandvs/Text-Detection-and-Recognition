@@ -1,0 +1,5 @@
+language : "en"
+
+#Other supportes languages are also available see README for more info
+
+img_path : "tedtalk.mp4"
